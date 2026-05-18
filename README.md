@@ -1,13 +1,15 @@
 # Hi, I'm somethingg00 👋
 
-Web3 Developer | Still figuring it out.
+Web3 dev. Currently shipping **LiteForge DEX** — an EVM DEX secured by Litecoin.
 
-## 🔧 Tech Stack
-- Python | TypeScript | Solidity
+🌐 **https://liteforgedex.com**
 
-## 🚀 Projects
+## Projects
+- [liteforgedex](https://github.com/somethingg00/liteforgedex) — frontend for LiteForge DEX
 - [octra_pre_client](https://github.com/somethingg00/octra_pre_client)
-- [liteforgedex](https://github.com/somethingg00/liteforgedex)
 
-## 📫 Connect
-- Twitter/X: [@ssomethingg00](https://x.com/ssomethingg00)
+## Stack
+Python · TypeScript · Solidity
+
+## Find me
+- X: [@ssomethingg00](https://x.com/ssomethingg00)
