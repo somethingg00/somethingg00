@@ -13,3 +13,4 @@ Python · TypeScript · Solidity
 
 ## Find me
 - X: [@ssomethingg00](https://x.com/ssomethingg00)
+- Reddit: [u/ssomethingg00](https://www.reddit.com/user/ssomethingg00)
